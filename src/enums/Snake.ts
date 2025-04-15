@@ -2,6 +2,8 @@ export enum CellType {
   EMPTY = "EMPTY",
   SNAKE = "SNAKE",
   FOOD = "FOOD",
+  AI_SNAKE = "AI_SNAKE",
+  USER_SNAKE = "USER_SNAKE",
 }
 
 export enum GameState {
